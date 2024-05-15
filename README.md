@@ -96,8 +96,6 @@ Model BART Pegasus <br/>
 LSTM 0.31 0.23 <br/>
 Table 5.5.1: Cosine Similarity <br/>
 <br/>
-
-<br/>
 Metric Classifier-1 Classifier-2 <br/>
 Accuracy 58% 27% <br/>
 Table 5.5.2: Accuracy <br/>
